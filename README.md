@@ -1,4 +1,4 @@
-## 평문 HTTP 테스트 명령어 (GET/POST)
+## 1. 평문 HTTP 테스트 명령어 (GET/POST)
 ```
 curl -v -H "Host: x.com" http://x.com/
 curl -v -X POST -H "Host: naver.com" http://223.130.200.219/  
