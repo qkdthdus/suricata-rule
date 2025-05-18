@@ -1,3 +1,4 @@
+[what i used]
 curl -v -H "Host: x.com" http://x.com/
 curl -v -X POST -H "Host: naver.com" http://223.130.200.219/  
 curl -v -H "Host: daum.net" http://daum.net/
