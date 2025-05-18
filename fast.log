@@ -1,0 +1,21 @@
+05/18/2025-13:19:42.664052  [**] [1:100001:1] Detect GET to x.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.79.128:42952 -> 162.159.140.229:80
+05/18/2025-13:19:42.702650  [**] [1:100002:1] Detect POST to naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.79.128:55558 -> 223.130.200.219:80
+05/18/2025-13:19:42.705354  [**] [1:2054422:1] ET INFO Referrer-Policy set to unsafe-url [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 223.130.200.219:80 -> 192.168.79.128:55558
+05/18/2025-13:19:42.750560  [**] [1:100003:1] Detect GET to daum.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.79.128:58790 -> 121.53.105.193:80
+05/18/2025-13:19:43.000328  [**] [1:100004:1] Detect POST to google.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.79.128:48744 -> 142.250.207.110:80
+05/18/2025-13:19:43.204863  [**] [1:100005:1] Detect GET to youtube.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.79.128:48758 -> 142.250.207.110:80
+05/18/2025-13:19:43.258328  [**] [1:100006:1] Detect POST to tistory.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.79.128:60024 -> 211.183.222.4:80
+05/18/2025-13:19:43.307634  [**] [1:100007:1] Detect GET to github.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.79.128:50002 -> 20.200.245.247:80
+05/18/2025-13:19:43.353532  [**] [1:100008:1] Detect POST to reddit.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.79.128:44094 -> 151.101.129.140:80
+05/18/2025-13:19:43.404419  [**] [1:100009:1] Detect GET to cnn.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.79.128:51862 -> 151.101.67.5:80
+05/18/2025-13:19:43.486995  [**] [1:100010:1] Detect POST to stackoverflow.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.79.128:38020 -> 172.64.155.249:80
+05/18/2025-13:19:43.567263  [**] [1:100011:1] Detect TLS SNI twitter.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.79.128:36538 -> 172.66.0.227:443
+05/18/2025-13:19:43.986687  [**] [1:100012:1] Detect TLS SNI facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.79.128:43774 -> 31.13.76.35:443
+05/18/2025-13:19:44.312284  [**] [1:100013:1] Detect TLS SNI instagram.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.79.128:43828 -> 31.13.76.174:443
+05/18/2025-13:19:45.049498  [**] [1:100014:1] Detect TLS SNI netflix.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.79.128:49704 -> 44.237.234.25:443
+05/18/2025-13:19:45.407614  [**] [1:100015:1] Detect TLS SNI kakao.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.79.128:53980 -> 211.249.221.105:443
+05/18/2025-13:19:45.776098  [**] [1:100016:1] Detect TLS SNI zoom.us [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.79.128:57580 -> 170.114.52.2:443
+05/18/2025-13:19:46.022636  [**] [1:100017:1] Detect TLS SNI wikipedia.org [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.79.128:47834 -> 103.102.166.224:443
+05/18/2025-13:19:46.640361  [**] [1:100018:1] Detect TLS SNI amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.79.128:54320 -> 54.239.28.85:443
+05/18/2025-13:19:47.119900  [**] [1:100019:1] Detect TLS SNI microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.79.128:44396 -> 13.107.246.74:443
+05/18/2025-13:19:47.304010  [**] [1:100020:1] Detect TLS SNI openai.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.79.128:38484 -> 104.18.33.45:443
